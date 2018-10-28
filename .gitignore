@@ -1,0 +1,14 @@
+# Environment
+.env
+
+# Python
+*.pyc
+__pycache__/
+
+# Misc.
+*~
+*.backup
+
+# Raw data
+data/raw/*.zip
+data/raw/*.csv
