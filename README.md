@@ -18,7 +18,7 @@ In order to run this code you'll need the data from the [Mexican Migration Proje
  - pers161.csv.zip
  - spouse161.csv.zip
 
-Once you've acquired these files you'll need to copy them into the `data/raw/` directory.
+Once you've acquired these files you'll need to copy them into the `data/raw/` directory.  You can verify the files you copied by checking them against the sha-1 hashes in the `mmp_files.sha1` file.
 
 
 ## License

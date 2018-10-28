@@ -16,4 +16,5 @@ python_version = "3.6"
 [scripts]
 install_ipykernel = "python -m ipykernel install --user --name us_mexico_border"
 uninstall_ipykernel = "jupyter kernelspec uninstall us_mexico_border"
-jupyter = "jupyter notebook"
+freeze = "pip freeze --local"
+jupyter = "jupyter notebook --notebook-dir=notebooks"
